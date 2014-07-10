@@ -1,0 +1,3 @@
+name: jmcmullen-t1
+main: com.tenjava.entries.jmcmullen.t1.TenJava
+version: '${project.version}'
